@@ -1,2 +1,2 @@
 # Proyectobootcamp
- este proyecto para aprender a generar paguinas web 
+  proyecto de bootcamp programacion para guenerar una paguina web
